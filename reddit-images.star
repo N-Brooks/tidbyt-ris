@@ -1,6 +1,6 @@
 """
-Applet: Reddit Image Shuffle
-Summary: Display Reddit Images on Shuffle
+Applet: Reddit Images
+Summary: Shuffle Subreddit Images
 Description: Show a random image post from a custom list of subreddits (up to 10) and/or a list of default subreddits. Use the ID displayed to access the post on a computer, at http://www.reddit.com/{id}. All fields are optional.
 Author: Nicole Brooks
 """
